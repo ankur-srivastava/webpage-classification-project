@@ -1,4 +1,4 @@
-# webpage-classification-project
+# Webpage Classification Project
 
 Project ID : 23
 Project Title : Semi-Supervised Learning based method for Webpage Classification

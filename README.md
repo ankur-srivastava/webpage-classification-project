@@ -7,7 +7,6 @@ This Project implements SMCFL for webpage classification outlined in the followi
 
 Team Members:
 
-1. Ankur Srivastava
-2. Rohan Tiwari
+Ankur Srivastava
 
 
